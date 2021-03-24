@@ -1,6 +1,6 @@
 ﻿using Microsoft.MixedReality.Toolkit.Utilities;
 
-namespace MRKTExtensions.Gesture
+namespace MRTKExtensions.Gesture
 {
     public static class GestureUtils
     {
